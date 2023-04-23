@@ -10,8 +10,10 @@ public class Parameters {
 		String URL=System.getProperty("url");
 		System.out.println(BROWSER);
 		System.out.println(URL);
+		
+		//pushed and pulling back
+		//pulled and pushing back
 
 	}
 
 }
-//pushed and pulling back
